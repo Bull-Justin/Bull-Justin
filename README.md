@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bull-Justin
+- I'm a student majoring in Computer Science at KSU. Expected graduation is May 2023.
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning how to work with Discord bots. 
 - 💞️ I’m looking to collaborate on open-source projects for the community.
 - 📫 How to reach me: bulljc01@gmail.com
 
